@@ -1,0 +1,20 @@
+body{
+    font-size: 18px;
+    word-spacing: 1px;
+    letter-spacing: normal;
+    background-color:#4dffdb;
+    }
+section{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+.flex{
+        display: flex;
+    }
+@media screen and (max-width: 600px) {
+        body {
+          background-color:#4dffdb;
+        }
+      }
+      
